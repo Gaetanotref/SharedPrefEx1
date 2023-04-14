@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExSharedPrefe1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="insert_text">Insert text</string>
+    <string name="press_me">press me</string>
+</resources>
